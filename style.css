@@ -1,0 +1,59 @@
+body{
+    background-color:#2779F4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#box1{
+    width: 400px;
+    border-style: solid;
+    border-radius: 50px;
+    margin-inline: auto;
+    background: rgb(245, 247, 248);
+    box-shadow: 2px 10px 10px 10px rgb(245, 247, 248);
+}
+
+#foto{
+    border: none;
+    border-radius: 200px;
+    box-shadow: 2px 0px 30px #2779F4;
+    width:200px;
+}
+
+#box2{
+    max-width: 350px;
+    margin-inline: auto;
+    border-radius: 10px;
+    font-size: 18px;
+    
+}
+
+h3{
+    text-align: center;
+    color: rgb(29, 11, 46);
+}
+
+h5{
+    text-align: center;
+}
+
+#caixas{
+    max-width: auto;
+    line-height: normal;
+    border-radius: 50px;
+    text-align: center;
+    background-color: rgb(32, 221, 227);
+    margin: 5px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#botao{
+    border: none;
+    border-radius: 20px;
+    width: 300px;
+    background-color: rgb(32, 221, 227);
+    padding: 10px;
+    margin: 2px;
+}
